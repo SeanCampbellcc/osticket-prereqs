@@ -26,7 +26,7 @@ This tutorial outlines  Installation of osTicket.<br />
 - Log on to virtual machine using remote Dsktop
 - Download PHP files and add the correct files to the computer
 - Configure ILS settings for PHP use eg registering PHP
-- 
+- If everything is installed correctly the OS should work !
 
 <h2>Installation Steps</h2>
 
