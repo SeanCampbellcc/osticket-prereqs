@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Creation / SLA Ticket   </h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines ticket creation and SLA agreement creation in osTicket.<br />
 
 
 
