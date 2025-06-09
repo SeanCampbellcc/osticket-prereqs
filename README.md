@@ -61,6 +61,6 @@ Install all the required PHP files to the desktop
 In IIS as Admin make sure to stop then restart the network befor starting the PHP manager
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ruRWlIH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
