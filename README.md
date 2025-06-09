@@ -47,7 +47,7 @@ Next copy the ip address from the virtual machine  and connect to it using RDP
 <br />
 
 <p>
-<img src="https://i.imgur.com/1b3e6zf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HST9QgG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install all the required PHP files to the desktop
