@@ -8,7 +8,7 @@ This tutorial outlines ticket creation and SLA agreement creation in osTicket.<b
 
 
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
