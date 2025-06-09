@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Creation / SLA Ticket   </h1>
-This tutorial outlines ticket creation and SLA agreement creation in osTicket.<br />
+<h1>osTicket - Installation    </h1>
+This tutorial outlines  Installation of osTicket.<br />
 
 
 
@@ -22,11 +22,11 @@ This tutorial outlines ticket creation and SLA agreement creation in osTicket.<b
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Make sure Azure virtual machine is running      
+- Log on to virtual machine using remote Dsktop
+- Download PHP files and add the correct files to the computer
+- Configure ILS settings for PHP use eg registering PHP
+- 
 
 <h2>Installation Steps</h2>
 
