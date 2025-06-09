@@ -64,3 +64,4 @@ In IIS as Admin make sure to stop then restart the network befor starting the PH
 <img src="https://i.imgur.com/ruRWlIH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+If everything is done correctly this is how it should look
